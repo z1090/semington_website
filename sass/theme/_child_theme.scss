@@ -1,0 +1,10 @@
+body {
+    color: $body-text;
+    background-color: $body-text;
+
+    font-family: 'Libre Baskerville', serif;
+}
+
+nav.navbar {
+    background-color: $nav-bg !important;
+}
